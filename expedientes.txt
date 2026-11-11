@@ -1,0 +1,5 @@
+EXP001|45871236|Maria Lopez Soto|Solicitud de historia clínica|09/11/2026|Pendiente
+EXP002|70123456|Ana Torres Quispe|Carta de garantía|09/11/2026|Pendiente
+EXP003|20512345|Pedro Ramos Vega|Reclamo|09/11/2026|Pendiente
+EXP004|10456789|Luis Diaz Rojas|Trámite administrativo|09/11/2026|Pendiente
+EXP005|70224321|Luz Flores Vasquez|Solicitud de historia clínica|09/11/2026|En proceso
